@@ -1,0 +1,16 @@
+{
+  "name": "asyncquest",
+  "version": "1.0.0",
+  "description": "基于XMLHTTP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "request",
+    "axios",
+    "ajax"
+  ],
+  "author": "AllenPeng",
+  "license": "ISC"
+}
