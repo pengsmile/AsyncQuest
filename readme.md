@@ -1,11 +1,12 @@
 # AsyncQuest
 
-[![Bower version]
+[![npm version](https://badge.fury.io/js/asyncquest.svg)](https://badge.fury.io/js/asyncquest)
+
 
 ## Step
 
 ```
-    npm i asyncquest
+npm i asyncquest
 ```
 
 ## Options
